@@ -13,6 +13,21 @@ You can find me on the following platforms:
      <img src="https://img.shields.io/badge/View%20Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader" target="_blank" />
   </a>
 </div>
+<h2>💻 Coding profiles</h2>
+<p align="center">
+  <a href="https://leetcode.com/u/2200031114/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&logoWidth=40&logoHeight=40" alt="LeetCode" />
+  </a>
+  <a href="https://www.codechef.com/users/jitendhar">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white&logoWidth=40&logoHeight=40" alt="CodeChef" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/Jitendhar">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white&logoWidth=40&logoHeight=40" alt="HackerRank" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/user_0biawvdt4ze/">
+    <img src="[https://img.shields.io/badge/AtCoder-663300?style=for-the-badge&logo=atcoder&logoColor=white&logoWidth=40&logoHeight=40" alt="AtCoder](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)" />
+  </a>
+</p>
 ## Skills
 
 - **Programming Languages**: C, Java, SQL, JavaScript (Basic), Python
