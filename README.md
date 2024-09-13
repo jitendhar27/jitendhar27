@@ -28,7 +28,7 @@ You can find me on the following platforms:
     <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
   </a>
 </p>
-#Skills
+<h2>Skills</h2>
 
 - **Programming Languages**: C, Java, SQL, JavaScript (Basic), Python
 - **Technologies**: Django, Spring Boot, AWS, JSP, MERN Stack
