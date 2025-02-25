@@ -1,4 +1,4 @@
-# About Me
+# <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Minecraft&pause=1000&width=435&lines=Jitendhar" alt="Typing SVG" /></a>
 
 I'm a Full Stack Developer with a passion for creating dynamic and efficient web applications. 
 
