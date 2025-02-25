@@ -1,38 +1,98 @@
-# <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Minecraft&size=35&pause=1000&center=true&vCenter=true&width=435&lines=Jitendhar" alt="Typing SVG" /></a>
+# <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Minecraft&size=35&pause=1000&color=F70000&center=true&vCenter=true&width=500&lines=Jitendhar+|+Full+Stack+Developer" alt="Typing SVG" /></a>
 
-I'm a Full Stack Developer with a passion for creating dynamic and efficient web applications. 
+## 🚀 About Me  
+I'm a **Full Stack Developer** with a passion for **building dynamic and scalable web applications**. I enjoy solving complex problems and continuously improving my skills in **software development, cybersecurity, and cloud computing**.
 
-You can find me on the following platforms:
+- 🔭 Currently working on a **Secure Network Access Control (NAC) system**  
+- 🌱 Exploring **Cloud Computing & Cybersecurity**  
+- 💡 Passionate about **building scalable backend systems**  
+- 💬 Ask me about **MERN, Java Spring Boot, and Cybersecurity**  
+
+---
+
+## 📫 Connect With Me  
 <div align="center"> 
   <a href="mailto:bhanujitendhar27@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/bhanu-jitendhar-denuvakonda" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
   <a href="/resume.pdf">
      <img src="https://img.shields.io/badge/View%20Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader" target="_blank" />
   </a>
 </div>
-<h2>💻 Coding profiles</h2>
+
+---
+
+## 🏆 Coding Profiles  
 <p align="center">
   <a href="https://leetcode.com/u/2200031114/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&logoWidth=40&logoHeight=40" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
   <a href="https://www.codechef.com/users/jitendhar">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white&logoWidth=40&logoHeight=40" alt="CodeChef" />
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
   </a>
   <a href="https://www.hackerrank.com/profile/Jitendhar">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white&logoWidth=40&logoHeight=40" alt="HackerRank" />
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
   </a>
   <a href="https://www.geeksforgeeks.org/user/user_0biawvdt4ze/">
     <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
   </a>
 </p>
-<h2>Skills</h2>
 
-- **Programming Languages**: C, Java, SQL, JavaScript (Basic), Python
-- **Technologies**: Django, Spring Boot, AWS, JSP, MERN Stack
-- **Databases**: MySQL, MongoDB, Oracle, PostgreSQL
+---
 
-Feel free to explore my repositories and connect with me!
+## 🛠️ Skills  
 
+### **💻 Programming Languages**
+- C, Java, SQL, JavaScript (Basic), Python  
+
+### **🚀 Technologies & Frameworks**
+- **Backend**: Django, Spring Boot, JSP  
+- **Frontend**: React.js, HTML, CSS, JavaScript  
+- **Full Stack**: MERN (MongoDB, Express.js, React, Node.js)  
+- **Cloud & DevOps**: AWS, Docker, Kubernetes  
+- **Cybersecurity**: Network Security, Ethical Hacking  
+
+### **🗄️ Databases**
+- MySQL, MongoDB, Oracle, PostgreSQL  
+
+---
+
+## 📊 GitHub Stats  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jitendhar27&show_icons=true&theme=radical" height="160px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jitendhar27&theme=radical" height="160px" />
+</div>
+
+---
+
+## 📂 Featured Projects  
+### **🔐 Secure Network Access Control (NAC) System**
+- Implementing a **secure access control** system for networks  
+- Using **Python, Django, MySQL**, and **Random Forest Algorithm** for fraud detection  
+
+### **📊 Credit Card Fraud Detection**
+- Built a **fraud detection system** using **Machine Learning (Random Forest)**  
+- Features **admin dashboard, two-factor authentication**, and fraud management  
+
+### **🌐 Student Project Tracking Platform**
+- Developed a **student project tracking system** with **Spring Boot, Thymeleaf**  
+- Implements **role-based authentication** for students and admins  
+
+---
+
+## 🏆 Achievements  
+- 🎯 **Solved 500+ coding problems** on **LeetCode, CodeChef, and HackerRank**  
+- 🏅 **Top 5%** in competitive programming contests  
+- 📜 **Certified in AWS and Cybersecurity Essentials**  
+
+---
+
+## ⚡ Fun Fact  
+I love **hacking together new projects**, playing **chess**, and exploring **cybersecurity challenges**. 😎  
+
+---
+
+> **_"Code is like humor. When you have to explain it, it’s bad."_ – Cory House**
