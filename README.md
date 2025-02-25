@@ -1,4 +1,4 @@
-# <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Minecraft&size=35&pause=1000&color=F70000&center=true&vCenter=true&width=500&lines=Jitendhar+|+Full+Stack+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Amasis+MT+Pro&weight=300&size=35&duration=2500&pause=250&center=true&vCenter=true&width=500&lines=Bhanu+Jitendhar;Full+Stack+Developer;Cybersecurity+Enthusiast" alt="Typing SVG" /></a>
 
 ## 🚀 About Me  
 I'm a **Full Stack Developer** with a passion for **building dynamic and scalable web applications**. I enjoy solving complex problems and continuously improving my skills in **software development, cybersecurity, and cloud computing**.
