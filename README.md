@@ -1,7 +1,7 @@
 # About Me
 
 I'm a Full Stack Developer with a passion for creating dynamic and efficient web applications. 
-
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F70000&width=435&lines=Hello+world!;Welcome+to+my+GitHub!;Typing+effect+in+Markdown!)
 You can find me on the following platforms:
 <div align="center"> 
   <a href="mailto:bhanujitendhar27@gmail.com">
