@@ -1,5 +1,5 @@
 # Iam Bhanu Jitendhar
-## Iam <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Open+sans&weight=300&size=35&duration=1500&pause=250&width=500&lines=Full+Stack+Developer;Cybersecurity+Enthusiast;A+Tech+Geek" alt="Typing SVG" /></a>
+## Iam <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Open+sans&weight=300&duration=1500&pause=250&width=500&lines=Full+Stack+Developer;Cybersecurity+Enthusiast;A+Tech+Geek" alt="Typing SVG" /></a>
 
 ## 🚀 About Me  
 I'm a **Full Stack Developer** with a passion for **building dynamic and scalable web applications**. I enjoy solving complex problems and continuously improving my skills in **software development, cybersecurity, and cloud computing**.
