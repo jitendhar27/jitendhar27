@@ -1,41 +1,48 @@
-# Iam Bhanu Jitendhar
-## Iam <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Open+sans&weight=300&duration=1500&pause=250&width=500&lines=Full+Stack+Developer;Cybersecurity+Enthusiast;A+Tech+Geek" alt="Typing SVG" /></a>
+<h1 align="center">Iam Bhanu Jitendhar</h1>
+
+<p align="center" style="font-size: 20px; font-weight: bold;">
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Open+sans&weight=300&size=25&duration=1500&pause=250&center=true&vCenter=true&width=500&height=25&lines=Iam+A+Full+Stack+Developer;Iam+A+Cybersecurity+Enthusiast;Iam+A+Tech+Geek" alt="Typing SVG" /></a>
+</p>
+
+
+
+---
 
 ## 🚀 About Me  
-I'm a **Full Stack Developer** with a passion for **building dynamic and scalable web applications**. I enjoy solving complex problems and continuously improving my skills in **software development, cybersecurity, and cloud computing**.
+🔹 **Full Stack Developer** passionate about **building scalable and secure web applications**.  
+🔹 Strong interest in **Cybersecurity, Cloud Computing, and Competitive Programming**.  
+🔹 Currently working on a **Secure Network Access Control (NAC) System**.  
+🔹 Exploring **AWS, DevOps, and Advanced Cybersecurity Techniques**.  
 
-- 🔭 Currently working on a **Secure Network Access Control (NAC) system**  
-- 🌱 Exploring **Cloud Computing & Cybersecurity**  
-- 💡 Passionate about **building scalable backend systems**  
-- 💬 Ask me about **MERN, Java Spring Boot, and Cybersecurity**  
+💬 **Ask me about**: MERN, Java Spring Boot, Cybersecurity, and System Design.  
 
 ---
 
 ## 📫 Connect With Me  
-<div align="center"> 
+<p align="center">
   <a href="mailto:bhanujitendhar27@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/bhanu-jitendhar-denuvakonda" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="/resume.pdf">
-     <img src="https://img.shields.io/badge/View%20Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader" target="_blank" />
+    <img src="https://img.shields.io/badge/View%20Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader" />
   </a>
-</div>
+</p>
 
 ---
 
 ## 🏆 Coding Profiles  
 <p align="center">
   <a href="https://leetcode.com/u/2200031114/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
   <a href="https://www.codechef.com/users/jitendhar">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
   </a>
   <a href="https://www.hackerrank.com/profile/Jitendhar">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
   <a href="https://www.geeksforgeeks.org/user/user_0biawvdt4ze/">
     <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
@@ -62,37 +69,38 @@ I'm a **Full Stack Developer** with a passion for **building dynamic and scalabl
 ---
 
 ## 📊 GitHub Stats  
-<div align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jitendhar27&show_icons=true&theme=radical" height="160px" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jitendhar27&theme=radical" height="160px" />
-</div>
+</p>
 
 ---
 
 ## 📂 Featured Projects  
+
 ### **🔐 Secure Network Access Control (NAC) System**
-- Implementing a **secure access control** system for networks  
-- Using **Python, Django, MySQL**, and **Random Forest Algorithm** for fraud detection  
+🔹 Implementing a **secure access control** system for networks  
+🔹 Uses **Python, Django, MySQL**, and **Random Forest Algorithm** for fraud detection  
 
 ### **📊 Credit Card Fraud Detection**
-- Built a **fraud detection system** using **Machine Learning (Random Forest)**  
-- Features **admin dashboard, two-factor authentication**, and fraud management  
+🔹 Built a **fraud detection system** using **Machine Learning (Random Forest)**  
+🔹 Features **admin dashboard, two-factor authentication**, and fraud management  
 
 ### **🌐 Student Project Tracking Platform**
-- Developed a **student project tracking system** with **Spring Boot, Thymeleaf**  
-- Implements **role-based authentication** for students and admins  
+🔹 Developed a **student project tracking system** with **Spring Boot, Thymeleaf**  
+🔹 Implements **role-based authentication** for students and admins  
 
 ---
 
 ## 🏆 Achievements  
-- 🎯 **Solved 500+ coding problems** on **LeetCode, CodeChef, and HackerRank**  
-- 🏅 **Top 5%** in competitive programming contests  
-- 📜 **Certified in AWS and Cybersecurity Essentials**  
+✔️ **Solved 500+ coding problems** on **LeetCode, CodeChef, and HackerRank**  
+✔️ **Top 5%** in competitive programming contests  
+✔️ **Certified in AWS and Cybersecurity Essentials**  
 
 ---
 
 ## ⚡ Fun Fact  
-I love **hacking together new projects**, playing **chess**, and exploring **cybersecurity challenges**. 😎  
+💡 I love **hacking together new projects**, playing **chess**, and exploring **cybersecurity challenges**. 😎  
 
 ---
 
